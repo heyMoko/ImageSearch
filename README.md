@@ -14,10 +14,10 @@
 * WallpaperManager
 
 ## 기능 상세
-* Unsplash API로부터 사진을 가져올 수 있다.
-* 검색한 사진을 다운받을 수 있다.
-* 사진을 배경화면으로 사용할 수 있다.
-* 로딩할 때 Loading Shimmer를 볼 수 있다.
+* Unsplash API로부터 사진을 가져올 수 있음
+* 검색한 사진을 다운받을 수 있음
+* 사진을 배경화면으로 사용할 수 있음
+* 로딩할 때 Loading Shimmer를 볼 수 있음
 
 ## 작동화면
 ![image](https://user-images.githubusercontent.com/62370144/167591610-796f899f-8285-45f4-b9f5-e48c84ab2191.png)
